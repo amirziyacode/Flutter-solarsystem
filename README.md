@@ -3,9 +3,30 @@
 [![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
 
 
-# solarsysteme
+# solarsysteme 
 
-A new Flutter project.
+You can get a lot inforamation about plants
+
+Use this source code in your project
+
+ Rate me ⭐
+
+Thank you ☺
+
+
+## Platform
+
+Android ✔️
+
+Ios ✔️
+
+
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
 ## Getting Started
 
