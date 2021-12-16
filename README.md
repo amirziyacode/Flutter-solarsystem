@@ -21,7 +21,7 @@ Android ✔️
 Ios ✔️
 
 ## Preview
-![weather](https://s4.uupload.ir/files/kl_s7iu.gif)
+![Swiper](https://s4.uupload.ir/files/kl_s7iu.gif)
 
 ## Development Setup
 Clone the repository and run the following commands:
