@@ -20,6 +20,8 @@ Android ✔️
 
 Ios ✔️
 
+## Preview
+![weather](https://uupload.ir/view/screen_recording_2021-12-16_at_11.26.55_pm_z6bb.mov)
 
 ## Development Setup
 Clone the repository and run the following commands:
