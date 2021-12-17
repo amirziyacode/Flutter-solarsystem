@@ -5,7 +5,7 @@
 
 # solarsysteme 
 
-You can get a lot inforamation about plants![Ui](https://dribbble.com/shots/6600859-Explore-Universe-App-UI)
+You can get a lot inforamation about plants [Ui](https://dribbble.com/shots/6600859-Explore-Universe-App-UI)
 
 Use this source code in your project
 
