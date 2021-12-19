@@ -21,7 +21,7 @@ Android ✔️
 Ios ✔️
 
 ## Preview
-![Swiper](https://s4.uupload.ir/files/screen_shot_2021-12-17_at_12.36.49_am_nl1n.png)
+![Swiper](https://s4.uupload.ir/files/9557dd36-72f9-483d-9c9d-69c994931986_7198.jpg)
 
 ## Development Setup
 Clone the repository and run the following commands:
